@@ -1,0 +1,30 @@
+body {background-color: rgb(253, 185, 255);
+    background-image: url("https://web.archive.org/web/20090829224516/http://www.geocities.com/punkar0o/rainbow_stars.gif");
+    font-family: Arial black, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(53, 52, 52);
+    border: 3px dotted;
+    position: fixed;
+}
+h2 {
+    text-align: center;
+    color: rgb(53, 52, 52);
+    position: absolute;
+    top: 2in; left: 4in;
+}
+img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    padding-top: 2rem;
+}
+p {
+    text-align: center;
+    color: rgb(53, 52, 52);
+    display: block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+    
